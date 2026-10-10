@@ -55,6 +55,4 @@ You can run this entire pipeline directly in Google Colab without any local setu
 2. Keep the runtime set to **CPU** (GPU is not required for this lightweight proxy environment).
 3. Copy and run the cells sequentially to install dependencies, train the models, and output the final comparative graph.
 
-### Core Installation Command:
-```bash
-pip install stable-baselines3 gymnasium
+
